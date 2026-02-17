@@ -1,3 +1,19 @@
 h1 {
     color: #8BF07A;
 }
+
+#titulo_centrado {
+    text-align: center;
+    margin-top: 10%;
+}
+
+#usuario {
+    text-align: center;
+    margin-top: 2%;
+}
+
+#div-username {
+    display: flex;
+		align-items: center;
+		justify-content: center;
+}
